@@ -1,0 +1,8 @@
+1.cd 拖曳資料夾
+2.git init
+3.touch index.html
+4.git add .
+5.git commit -m "名稱"
+6.git status 查詢狀態
+7.連結github
+8.同步github
